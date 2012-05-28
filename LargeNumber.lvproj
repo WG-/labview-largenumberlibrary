@@ -24,7 +24,7 @@
 		<Item Name="IntClass.lvclass" Type="LVClass" URL="../IntClass/IntClass.lvclass"/>
 		<Item Name="UintClass.lvclass" Type="LVClass" URL="../UintClass/UintClass.lvclass"/>
 		<Item Name="UnitTestUintClass.lvclass" Type="LVClass" URL="../UnitTestUintClass/UnitTestUintClass.lvclass"/>
-		<Item Name="UnitTestIntClass.lvclass" Type="LVClass" URL="../UnitTestIntClass/UnitTestIntClass/UnitTestIntClass.lvclass"/>
+		<Item Name="UnitTestIntClass.lvclass" Type="LVClass" URL="../UnitTestIntClass/UnitTestIntClass.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="String to Character Array__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/String to Character Array__ogtk.vi"/>
